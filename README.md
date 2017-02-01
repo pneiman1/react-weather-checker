@@ -8,12 +8,12 @@ https://github.com/ARWL2016/react-weather
 - Section 3  
 - Weather App using API from Open Weather MAp
 
-Contents
+Contents  
 1. React-Router   
 2. Axios   
 3. Babel (5 modules)  
 4. Foundation (using jquery, node-sass and loaders)  
-5. Webpack
+5. Webpack  
 6. Heroku  
 
 This app is a good model for a multi-page app in React, using React-Router, index routes and aliases. 
