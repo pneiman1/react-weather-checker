@@ -1,12 +1,12 @@
 ### Complete React Developer Course   
 
 https://www.udemy.com/the-complete-react-web-app-developer-course/learn/v4/content 
-https://github.com/ARWL2016/react-weather 
+https://github.com/pneiman1/react-weather-checker
 
 - Udemy   
-- Andrew Mead   
+- {Teacher : Andrew Mead}   
 - Section 3  
-- Weather App using API from Open Weather MAp
+- Weather App using API from Open Weather Map
 
 Contents  
 1. React-Router   
