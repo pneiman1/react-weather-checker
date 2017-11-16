@@ -18,7 +18,7 @@ var Nav = React.createClass ({
             <div className="top-bar">
                 <div className="top-bar-left">
                 <ul className="menu">
-                    <li class="menu-text">React Weather</li>
+                    <li class="menu-text">ReactWeather</li>
                     <li>
                         <IndexLink to="/" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>Get Weather</IndexLink>
                     </li> 
